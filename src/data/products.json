@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Cloud Nine Headset",
+    "price": 79.99,
+    "category": "Audio",
+    "description": "Soft ear cushions and a detachable microphone for late-night party chat.",
+    "imageUrl": "./images/product1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Rose Quartz Keyboard",
+    "price": 94.99,
+    "category": "Desk Gear",
+    "description": "A compact mechanical keyboard with soft pink keys and a satisfying feel.",
+    "imageUrl": "./images/product2.webp"
+  },
+  {
+    "id": 3,
+    "name": "Moonbeam Gaming Mouse",
+    "price": 39.99,
+    "category": "Desk Gear",
+    "description": "A lightweight lavender mouse made for quick moves and comfortable sessions.",
+    "imageUrl": "./images/product3.webp"
+  },
+  {
+    "id": 4,
+    "name": "Cozy Quest Desk Mat",
+    "price": 24.99,
+    "category": "Desk Gear",
+    "description": "An oversized pastel desk mat that gives your setup a little breathing room.",
+    "imageUrl": "./images/product4.webp"
+  },
+  {
+    "id": 5,
+    "name": "Starlight Controller",
+    "price": 59.99,
+    "category": "Controllers",
+    "description": "A dreamy purple controller for your next couch co-op adventure.",
+    "imageUrl": "./images/product5.webp"
+  },
+  {
+    "id": 6,
+    "name": "Crimson Raid Headset",
+    "price": 69.99,
+    "category": "Audio",
+    "description": "Matte black earcups and crimson accents bring a bold look to party chat.",
+    "imageUrl": "./images/product6.webp"
+  },
+  {
+    "id": 7,
+    "name": "Shadow Realm Keyboard",
+    "price": 89.99,
+    "category": "Desk Gear",
+    "description": "Charcoal keycaps, purple accents, and subtle violet lighting for an after-dark setup.",
+    "imageUrl": "./images/product7.webp"
+  },
+  {
+    "id": 8,
+    "name": "Obsidian Gaming Mouse",
+    "price": 34.99,
+    "category": "Desk Gear",
+    "description": "A matte black mouse with a restrained crimson light strip for a sharper desk aesthetic.",
+    "imageUrl": "./images/product8.webp"
+  },
+  {
+    "id": 9,
+    "name": "After Hours Desk Mat",
+    "price": 27.99,
+    "category": "Desk Gear",
+    "description": "A deep purple desk mat inspired by one-more-round evenings.",
+    "imageUrl": "./images/product9.webp"
+  },
+  {
+    "id": 10,
+    "name": "Blood Moon Controller",
+    "price": 64.99,
+    "category": "Controllers",
+    "description": "A black controller with deep crimson buttons for your next boss battle.",
+    "imageUrl": "./images/product10.webp"
+  },
+  {
+    "id": 11,
+    "name": "Mint Matcha Headset",
+    "price": 74.99,
+    "category": "Audio",
+    "description": "Fresh mint color and soft ear pads for a cozy listening setup.",
+    "imageUrl": "./images/product11.webp"
+  },
+  {
+    "id": 12,
+    "name": "Midnight Circuit Keyboard",
+    "price": 99.99,
+    "category": "Desk Gear",
+    "description": "Midnight blue, charcoal keys, and ice-blue accents bring a cool edge to your desk.",
+    "imageUrl": "./images/product12.webp"
+  },
+  {
+    "id": 13,
+    "name": "Midnight Muse Mouse",
+    "price": 44.99,
+    "category": "Desk Gear",
+    "description": "A deep violet mouse for a setup with a little more mood.",
+    "imageUrl": "./images/product13.webp"
+  },
+  {
+    "id": 14,
+    "name": "Peachy Keen Desk Mat",
+    "price": 24.99,
+    "category": "Desk Gear",
+    "description": "A warm peach desk mat to brighten your study-and-play corner.",
+    "imageUrl": "./images/product14.webp"
+  },
+  {
+    "id": 15,
+    "name": "Nightfall Controller",
+    "price": 59.99,
+    "category": "Controllers",
+    "description": "A midnight-blue controller with black grips and ice-blue buttons for your next adventure.",
+    "imageUrl": "./images/product15.webp"
+  }
+]

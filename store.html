@@ -1,1 +1,73 @@
-
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Player Two: gaming accessories in pastel, dark, and bold styles. A fictional student storefront."
+    />
+    <title>Store | Player Two</title>
+    <link rel="stylesheet" href="./src/styles/main.css" />
+    <script type="module" src="./src/main.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./index.html"
+        ><span class="brand-icon" aria-hidden="true">✦</span> player two<span
+          class="brand-dot"
+          >.</span
+        ></a
+      >
+      <nav aria-label="Main navigation">
+        <a href="./index.html">Home</a><a href="./about.html">About</a
+        ><a href="./store.html" aria-current="page">Store</a>
+      </nav>
+      <span class="header-note">YOUR NEXT FAVORITE SETUP</span>
+    </header>
+    <main>
+      <section class="page-intro store-intro">
+        <p class="eyebrow">THE GOOD GEAR EDIT</p>
+        <h1>Little upgrades.<br /><em>Big main character energy.</em></h1>
+        <p class="lead">
+          From pastel calm to midnight energy, find the pieces that feel like
+          you.
+        </p>
+      </section>
+      <section class="section catalog" aria-labelledby="catalog-heading">
+        <div class="section-heading">
+          <h2 id="catalog-heading">Shop the collection</h2>
+          <p id="product-count"></p>
+        </div>
+        <div class="catalog-filter">
+          <label for="category-filter">Shop by category</label>
+          <select id="category-filter">
+            <option value="">All products</option>
+            <option value="Desk Gear">Desk Gear</option>
+            <option value="Audio">Audio</option>
+            <option value="Controllers">Controllers</option>
+          </select>
+        </div>
+        <div id="product-grid" class="product-grid"></div>
+        <nav class="pagination" aria-label="Product pages">
+          <button id="previous-page" type="button">← Previous</button>
+          <p
+            id="page-indicator"
+            role="status"
+            aria-live="polite"
+            aria-atomic="true"
+          ></p>
+          <button id="next-page" type="button">Next →</button>
+        </nav>
+        <noscript
+          >Please enable JavaScript to view the product catalog.</noscript
+        >
+      </section>
+    </main>
+    <footer class="site-footer">
+      <a class="brand" href="./index.html">✦ player two.</a>
+      <p>A little personality. A lot of play.</p>
+      <p>© 2026 Player Two · A fictional student storefront</p>
+    </footer>
+  </body>
+</html>
